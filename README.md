@@ -1,4 +1,7 @@
-### Hi there 👋
+### First year student at Epitech Technology, my goal is to discover and become an expert in development . 
+### I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
+-----
+
 
 <!--
 **Mael-RABOT/Mael-RABOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
