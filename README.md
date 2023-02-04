@@ -6,3 +6,5 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 2. [Radar](https://github.com/Mael-RABOT/radar)
 3. [Navy](https://github.com/Mael-RABOT/navy)
 4. [Antman](https://github.com/Mael-RABOT/Antamn)
+<br/><br/><br/>
+<img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
