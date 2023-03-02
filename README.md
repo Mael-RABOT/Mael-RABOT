@@ -2,6 +2,7 @@
 First year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
 I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
 # Some interesting projects
+1. [AI Number Recognition](https://github.com/Mael-RABOT/AI_number_recognition)
 1. [AI Voice Recognition](https://github.com/Mael-RABOT/AttentionSolMouille)
 2. [Nyan hunter](https://github.com/Mael-RABOT/nyan_hunter)
 3. [Radar](https://github.com/Mael-RABOT/radar)
