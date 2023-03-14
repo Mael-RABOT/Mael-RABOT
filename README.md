@@ -13,7 +13,7 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 5. [Antman](https://github.com/Mael-RABOT/Antamn)
 
 -----
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mael-RABOT)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true)
 
 <br/><br/><br/>
 <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
