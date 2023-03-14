@@ -1,6 +1,7 @@
 # About me
 First year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
 I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mael-RABOT)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # Some interesting projects
 1. [AI Number Recognition](https://github.com/Mael-RABOT/AI_number_recognition)
 1. [AI Voice Recognition](https://github.com/Mael-RABOT/AttentionSolMouille)
