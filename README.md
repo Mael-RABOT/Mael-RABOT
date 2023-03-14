@@ -14,7 +14,7 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 
 -----
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mael-RABOT&show_icons=true&count_private=true&theme=nord&hide=prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-RABOT&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-RABOT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/><br/><br/>
 <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
