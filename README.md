@@ -13,9 +13,6 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 5. [Antman](https://github.com/Mael-RABOT/Antamn)
 
 -----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mael-RABOT&show_icons=true&count_private=true&theme=nord&hide=prs,issues,contribs)<br/><br/>
-[![Tops Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-RABOT&layout=compact&theme=nord)](https://github.com/Mael-RABOT/readme-statss)<br/><br/>
-
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Mael-RABOT&show_icons=true&count_private=true&theme=nord" width="60%" />
   <br/>
