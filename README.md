@@ -1,4 +1,6 @@
-# About me
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=First+Year+Student+At+Epitech+Technology;Membre+of+PoC;About+me%3A)](https://git.io/typing-svg)<br/><br/>
+
+
 First year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
 I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
 
@@ -8,9 +10,6 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 1. [AI Number Recognition](https://github.com/Mael-RABOT/AI_number_recognition)
 1. [AI Voice Recognition](https://github.com/Mael-RABOT/AttentionSolMouille)
 2. [Nyan hunter](https://github.com/Mael-RABOT/nyan_hunter)
-3. [Radar](https://github.com/Mael-RABOT/radar)
-4. [Navy](https://github.com/Mael-RABOT/navy)
-5. [Antman](https://github.com/Mael-RABOT/Antamn)
 
 -----
 <p align='center'>
