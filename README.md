@@ -1,5 +1,4 @@
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=First+Year+Student+At+Epitech+Technology;Membre+of+PoC;About+me%3A)](https://git.io/typing-svg)<br/><br/>
-
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=700&width=435&lines=First+Year+Student+At+Epitech+Technology;Membre+of+PoC;About+me%3A)](https://git.io/typing-svg)<br/><br/>
 
 First year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
 I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
