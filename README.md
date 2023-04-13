@@ -12,6 +12,9 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
 1. [AI Voice Recognition](https://github.com/Mael-RABOT/AttentionSolMouille)
 2. [Nyan hunter](https://github.com/Mael-RABOT/nyan_hunter)
 
+## Currently working on:
+&emsp;&emsp;[DeepSong2](https://github.com/PoCInnovation/DeepSong2/tree/main)
+
 -----
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Mael-RABOT&show_icons=true&count_private=true&theme=nord" width="60%" />
