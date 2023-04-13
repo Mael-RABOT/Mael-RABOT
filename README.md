@@ -21,6 +21,18 @@ I am currently looking for a 6 month internship starting July 1st. Interested in
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-RABOT&theme=nord&layout=compact&langs_count=6" width="50%" />
   <br/>
+  <br/>
   <img src="https://newsroom.ionis-group.com/wp-content/uploads/2021/10/EPITECH-TECHNOLOGY-QUADRI-2021.png" alt="Epitech Technology Logo" title="Epitech Technology Logo" width=300 height=100>
 </p>
 
+---
+
+<br/><br/>
+<p align='center'>
+    <a href="https://www.linkedin.com/in/mael-rabot/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
+    </a>
+    <a href="https://www.instagram.com/mael._.rabot/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"
+>
+</p>
