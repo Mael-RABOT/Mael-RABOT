@@ -1,8 +1,8 @@
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0A51A1&background=93FF3000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=First+Year+Student+at+Epitech+Technology;R%26D+Developer+at+PoC+Innovation;About+me%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0A51A1&background=93FF3000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=Second+Year+Student+at+Epitech+Technology;R%26D+Developer+at+PoC+Innovation;About+me%3A" alt="Typing SVG" /></a>
 </p>
 
-First year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
+Second year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
 I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
 
 -----
