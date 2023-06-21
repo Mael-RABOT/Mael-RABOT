@@ -3,7 +3,6 @@
 </p>
 
 Second year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
-I am currently looking for a 6 month internship starting July 1st. Interested in artificial intelligence, I remain open to all areas of IT.
 
 -----
 
