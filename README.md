@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0A51A1&background=93FF3000&center=true&vCenter=true&multiline=true&width=550&height=100&lines=Second+Year+Student+at+Epitech+Technology;R%26D+Developer+at+PoC+Innovation;About+me%3A" alt="Typing SVG" /></a>
 </p>
 
-Second year student at Epitech Technology Lyon, my goal is to discover and become an expert in development. 
+Second year student at Epitech Technology Lyon, my goal is to discover and become an expert in development.
 
 -----
 
@@ -11,8 +11,6 @@ Second year student at Epitech Technology Lyon, my goal is to discover and becom
 - [AI Voice Recognition](https://github.com/Mael-RABOT/AttentionSolMouille)
 - [Nyan hunter](https://github.com/Mael-RABOT/nyan_hunter)
 
-## Currently working on:
-- [DeepSong2](https://github.com/PoCInnovation/DeepSong2/tree/main)
 
 ## Other groups projects:
 You will find some other groups project on the [ASM Organisation repositories](https://github.com/orgs/ASM-Studios/repositories)
