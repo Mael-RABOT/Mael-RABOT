@@ -10,6 +10,8 @@ I am currently interning as a full-stack developer and MRO at AudioWizard. 🧙�
 
 - 📫 How to reach me: [**`mael.rabot@epitech.eu`**](mailto:mael.rabot@epitech.eu)
 
+- 🦊 See me on gitlab (work account): [**`@mael5227`**](https://gitlab.com/mael5227)
+
 ---
 
 <p align='center'>
