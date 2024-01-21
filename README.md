@@ -1,16 +1,11 @@
 <p align='center'>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0A51A1&background=93FF3000&center=true&multiline=true&width=550&height=100&lines=Second+Year+Student+at+Epitech+Technology;Fullstak+Developer+%26+MRO+at+AudioWizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;About+me%3A" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0A51A1&background=93FF3000&center=true&multiline=true&width=550&height=100&lines=Second+Year+Student+at+Epitech+Technology;About+me%3A" alt="Typing SVG" /></a>
 </p>
 
-Second year student at Epitech Technology Lyon, my goal is to discover and become an expert in development.<br/>
-I am currently interning as a full-stack developer and MRO at AudioWizard. 🧙‍♂️
-
-
-- 🔭 I’m currently working at: [**`AudioWizard`**](https://audiowizard.fr/)
+Developer and Second year student at Epitech Technology Lyon.<br/>
+My goal is to discover and become an expert in development.<br/>
 
 - 📫 How to reach me: [**`mael.rabot@epitech.eu`**](mailto:mael.rabot@epitech.eu)
-
-- 🦊 See me on gitlab (work account): [**`@mael5227`**](https://gitlab.com/mael5227)
 
 ---
 
