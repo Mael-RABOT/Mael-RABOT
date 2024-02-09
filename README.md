@@ -10,7 +10,6 @@ My goal is to discover and become an expert in development.<br/>
 ---
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mael-RABOT&show_icons=true&count_private=true&theme=nord" style="width: 33%; height: 150px; float: left; margin-right: 10px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mael-RABOT&theme=nord&layout=compact&langs_count=6" style="width: 30%; height: 150px; float: left;" />
 </p>
 
