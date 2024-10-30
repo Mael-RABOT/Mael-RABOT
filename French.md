@@ -44,10 +44,10 @@ Voici quelques projets qui illustrent mon parcours et mes intérêts :
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email logo">
 </a>
 
+[📄 Download my Résumé](./Resume.pdf)
+
 ## 👥 Mes Projets de Groupe
 Découvrez plus de notre travail dans mon [Organisation GitHub](https://github.com/your-organization-link).
-
-[📄 Download my Résumé](./Resume.pdf)
 
 ## 🌍 Language Versions
 - [**English Version**](README.md)
