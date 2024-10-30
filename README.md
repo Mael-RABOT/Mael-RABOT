@@ -26,7 +26,4 @@ My goal is to discover and become an expert in development.<br/>
     <a href="https://www.linkedin.com/in/mael-rabot/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
     </a>
-    <a href="https://www.instagram.com/mael._.rabot/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram logo"
->
 </p>
