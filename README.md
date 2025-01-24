@@ -50,7 +50,7 @@ Here are some projects that showcase my journey and interests:
 [📄 Download my Résumé](./Resume.pdf)
 
 ## 👥 My Group Projects
-Discover more of our work in my [GitHub Organization](https://github.com/your-organization-link).
+Discover more of our work in my [GitHub Organization](https://github.com/ASM-Studios).
 
 ## 🌍 Language Versions
 - [**English Version**](README.md)
